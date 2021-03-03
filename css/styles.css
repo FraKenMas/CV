@@ -1,0 +1,174 @@
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 40px 0 20px;
+}
+
+.copyright-text {
+  color: #EAF6F6;
+  margin-top: 20px;
+  margin-bottom: 0;
+  font-size: 0.75rem;
+}
+
+.hello-text {
+  margin-top: 30px;
+}
+
+.skills {
+  margin-top: 30px;
+  margin-bottom: 140px;
+}
+
+.code-gif {
+  width: 25%;
+  height: auto;
+  float: left;
+  margin-right: 30px;
+}
+
+.ps-gif {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile {
+  margin-top: 30px;
+}
+
+.skill-row-code {
+  width: 50%;
+  margin: 30px auto 100px auto;
+  text-align: left;
+}
+
+.skill-row-ps {
+  width: 50%;
+  margin: 100px auto 30px auto;
+  text-align: left;
+}
+
+.code-skill-text {}
+
+.ps-skill-text {}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.subtitle {
+  font-weight: normal;
+}
+
+.contact-me {
+  margin-top: 50px;
+}
+
+.footer-link-linkedin {
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+.footer-link-twitter {
+  text-decoration: none;
+}
+
+.footer-link-website {
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.btn {
+  margin: 10px auto 20px auto;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 20px;
+  background-color: #66BFBF;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #66BFBF 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #3FD9D9;
+  border: solid #3FD9D9 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+body {
+  margin: auto;
+  text-align: center;
+  color: #40514E;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+}
+
+h2 {
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+  color: #EAF6F6
+}
+
+p {
+  color: #40514E;
+  line-height: 2;
+}
+
+hr {
+  border: 10px #EAF6F6;
+  border-style: none none dotted;
+  width: 10%;
+}
